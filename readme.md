@@ -1,16 +1,19 @@
-<center><b><h1>🧪 Testando comandos 🧪</h1><p color='red'>
+<div align="center"><b><h1>🧪 Testando comandos 🧪</h1>
 
+<br><br><li>
 Acessando a página: https://www.saucedemo.com/
-<br><br>
+<br><br><li>
 Colocando usuário e senha
-<br><br>
+<br><br><li>
 Escolhendo produto e adicionando ao carrinho
-<br><br>
+<br><br><li>
 Verificando o carrinho e prosseguir
-<br><br>
+<br><br><li>
 Inserindo os dados para a entrega
-<br><br>
+<br><br><li>
 Finalizar compra
-<br><br>
+<br><br><li>
 Fazer logout da página
-<br><br>
+<br><br><h2 style="color: red;"><li>
+Subir para o Github e rodar com sucesso no "Actions"
+</div>
